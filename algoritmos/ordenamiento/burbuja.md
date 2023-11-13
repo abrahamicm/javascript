@@ -91,7 +91,7 @@ bubbleSort(arrayToSort);
 19. Pregunta sobre por qué se le llamó "burbuja" al algoritmo.
 20. quien invento este algoritmo?
 
-- [youtube](https://www.youtube.com/watch?v=JP5KkzdUEYI)
+
 
 # porque el algoritmo esta en un do while
 
@@ -110,3 +110,6 @@ Aquí hay un desglose de cómo funciona:
 4. **Condición de terminación:** Si no se realiza ningún intercambio en una pasada, `swapped` permanecerá en `false`, y el bucle `do-while` se detendrá. Esto significa que el array está ordenado y no se necesitan más iteraciones.
 
 El uso de este enfoque ayuda a mejorar el rendimiento del algoritmo de burbuja en casos donde el array ya está casi ordenado, ya que evita continuar con pasadas innecesarias.
+
+- [youtube](https://www.youtube.com/watch?v=JP5KkzdUEYI)
+- https://www.youtube.com/watch?v=yIQuKSwPlro
